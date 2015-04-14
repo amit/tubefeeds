@@ -1,0 +1,1 @@
+This project is dead effectively as you tube now [allows syndication links](http://google-code-updates.blogspot.com/2007/08/youtube-now-with-gdata-goodness.html) for search.
